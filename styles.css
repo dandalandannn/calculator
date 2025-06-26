@@ -20,6 +20,7 @@ body{
     font-size: 5rem;
     padding: 20px;
     color: white;
+    text-align: left;
 }
 #keys{
     display: grid;
